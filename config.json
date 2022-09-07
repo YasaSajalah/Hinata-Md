@@ -1,10 +1,10 @@
 {
     "ownerNumber": "6281218100935@s.whatsapp.net",
-    "ownerName": "Yasa",
-    "botName": "Hinata-Md",
-    "footer": "Xcode Team",
+    "ownerName": "はいさ",
+    "botName": "Fumiko-Botz",
+    "footer": "Fumiko Botz",
     "sessionName": "session",
-    "pathimg": "./media/hinata.jpg",
+    "pathimg": "./media/fumiko.jpg",
     "lolkey": "Beli Sendiri",
     "youtube": "https://youtube.com/c/YasaChannel",
     "instagram": "https://instagram.com/yasaofficialaccount",
@@ -15,7 +15,7 @@
         "user": 15
     },
     "sticker": {
-        "packname": "Hinata-Md",
-        "author": "By Yasa"
+        "packname": "Fumiko-Botz",
+        "author": "By はいさ"
     }
 }
