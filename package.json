@@ -1,7 +1,7 @@
 {
-  "name": "hinata-md",
-  "version": "0.0.5",
-  "description": "Simple whatsapp bot with multi device.",
+  "name": "FumikoBotz",
+  "version": "V1",
+  "description": "WhatsApp Bot",
   "main": "main.js",
   "directories": {
     "lib": "lib"
