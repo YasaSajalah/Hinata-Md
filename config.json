@@ -1,13 +1,13 @@
 {
     "ownerNumber": "6281218100935@s.whatsapp.net",
-    "ownerName": "はいさ",
-    "botName": "Fumiko-Botz",
+    "ownerName": "Deviana",
+    "botName": "FumikoBotz",
     "footer": "Fumiko Botz",
     "sessionName": "session",
     "pathimg": "./media/fumiko.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/YasaChannel",
-    "instagram": "https://instagram.com/yasaofficialaccount",
+    "youtube": "-",
+    "instagram": "-",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
@@ -16,6 +16,6 @@
     },
     "sticker": {
         "packname": "Fumiko-Botz",
-        "author": "By はいさ"
+        "author": "By Deviana"
     }
 }
